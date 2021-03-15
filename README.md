@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danfernandespf
-- 👀 I’m interested in Software Architecture, Software Engineering and Agile Software Development
+- 👀 I’m interested in new technologies, software architecture and agile methodologies
 - 🌱 I’m currently learning Cloud Computing and DevSecOps
 - 💞️ I’m looking to collaborate on innovation projects
 - 📫 How to reach me danfernandespf@gmail.com
